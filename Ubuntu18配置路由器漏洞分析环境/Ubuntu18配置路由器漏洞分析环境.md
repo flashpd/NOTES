@@ -1,3 +1,7 @@
+建议直接使用`AttifyOS`
+
+[adi0x90/attifyos: Attify OS - Distro for pentesting IoT devices (github.com)](https://github.com/adi0x90/attifyos)
+
 在Ubuntu18上模拟路由器，首选`qemu`和`firmadyne`（本文没有成功）
 
 - `qemu`是一款虚拟操作系统模拟器，
